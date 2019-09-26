@@ -55,3 +55,6 @@
   height:100%;
 }
 
+.no-gutters > .col, .no-gutters > [class*="col-"] {
+}
+
